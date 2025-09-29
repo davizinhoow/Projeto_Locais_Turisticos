@@ -26,8 +26,8 @@ body{
 }
 
 #introducao img{
-width: 1120px;
 height: 660px;
+width: 1120px;
 }
 
 
@@ -53,4 +53,11 @@ height: 350px;
   text-transform: uppercase;
 }
 
+hr{
+  width: 1120px;
+  color: #D9D9D9;
+}
 
+footer {
+  text-align: center;
+}
