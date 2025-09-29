@@ -19,10 +19,17 @@ body{
   color: #E1624F;
   font-size: 16px;
   text-transform: uppercase;
+  margin-bottom: 8px;
 }
 
+#introducao h1 {
+  margin-top: auto;
+  margin-bottom: 40px;
+}
 #introducao p{
   text-align: center;
+  margin-top: 24px;
+  margin-bottom: 40px;
 }
 
 #introducao img{
@@ -47,11 +54,61 @@ width: 1120px;
 height: 350px;
 }
 
+
+/*Introducao_cards*/
+
 #introducao_cards h4{
   color: #E1624F;
   font-size: 16px;
   text-transform: uppercase;
+  margin-top: 64px;
+  margin-bottom: auto;
 }
+
+#introducao_cards h2{
+  margin-top: 8px;
+  margin-bottom: auto;
+}
+
+#introducao_cards p{
+  margin-top: 8px;
+  text-align: left;
+  margin-bottom: 64px;
+}
+
+/*Configuração Card 1*/
+#card_1 h2{
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+
+#card_1 p{
+  margin-top: auto;
+  margin-bottom: 48px;
+}
+
+/*Configurações do Card 2*/
+#card_2 h2{
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+
+#card_2 p {
+margin-top: auto;
+margin-bottom: 48px;
+}
+
+/*Configurações do Card 3*/
+#card_3 h2 {
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+
+#card_3 p{
+  margin-top: auto;
+  margin-bottom: 40px;
+}
+
 
 hr{
   width: 1120px;
@@ -60,4 +117,8 @@ hr{
 
 footer {
   text-align: center;
+}
+
+#comeco_footer {
+  margin-top: 40px;
 }
