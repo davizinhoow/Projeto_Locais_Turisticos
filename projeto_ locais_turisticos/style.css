@@ -4,6 +4,22 @@ body{
 }
 
 
+h1{
+  font-size: 36px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 28px;
+}
+
+p{
+  font-size: 16px;
+}
+
 /*Container principal*/
 #page{
   width: 1120px;
@@ -111,7 +127,9 @@ margin-bottom: 48px;
 
 
 hr{
+  margin-top: auto;
   width: 1120px;
+  margin-bottom: auto;
   color: #D9D9D9;
 }
 
@@ -121,4 +139,10 @@ footer {
 
 #comeco_footer {
   margin-top: 40px;
+}
+
+footer img {
+  margin-left: 4px;
+  margin-right: 4px;
+  
 }
