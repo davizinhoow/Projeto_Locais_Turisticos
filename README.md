@@ -24,7 +24,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-##📝 Licença
+## 📝 Licença
 
 🔔 Este projeto foi desenvolvido para fins de estudo, durante um curso da [Rocketseat](https://www.rocketseat.com.br/).
 Não possui licença específica, então qualquer pessoa pode visualizar, modificar e utilizar da forma que preferir.
